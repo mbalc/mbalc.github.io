@@ -10,6 +10,10 @@ baseurl: /
 
 theme: jekyll-theme-tao
 
+author:
+  name: mbalc
+  url: https://github.com/mbalc
+
 defaults:
   - scope:
       path: "*.md"

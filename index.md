@@ -6,19 +6,23 @@ nav_order: 1
 
 # About Me
 
-Hello! I'm **Mbalc** – an enthusiastic software engineer with a lifelong fascination for computers. Driven by a passion to reach new heights, I blend coding with creativity. When I'm not building or designing software, you'll find me gaming or making music.
+Hello! I'm **Mbalc** – an enthusiastic software engineer with a lifelong fascination for computers.
+Driven by a passion to reach new heights, I blend coding with creativity. My main programming
+expertise focuses on **DevOps** (CI/CD automations, cloud infrastructure,Terraform, Kubernetes) and
+**Developer Experience (DevEx)**, including toolkit optimization. When I'm not building or designing
+software, you'll find me gaming or making music.
 
 ---
 
 ## Skills
 
--   **Programming Languages:** Ruby, JavaScript, Node.js, etc.
--   **Frameworks & Libraries:** Ruby on Rails, React, React Native, Spree, Bootstrap.
--   **Cloud & DevOps:** AWS, Docker, Terraform, Kubernetes, CI/CD.
--   **Databases:** PostgreSQL, and more.
+-   **Programming Languages:** JavaScript, TypeScript, Ruby, Node.js, etc.
+-   **Frameworks & Libraries:** Next.js, React, React Native, Ruby on Rails, Spree, Bootstrap.
+-   **Cloud & DevOps:** Docker, Terraform, Kubernetes, CI/CD, AWS, GCP.
 -   **Other:** RESTful API design, code reviews, troubleshooting, agile methodologies.
+-   **Focus Areas:** DevOps automation, cloud infrastructure, and Developer Experience (DevEx).
 
-_Add any other skills or technologies relevant to your expertise._
+My main development stack currently revolves around **Node.js** and **Next.js** with **TypeScript**.
 
 ---
 

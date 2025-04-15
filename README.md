@@ -19,7 +19,7 @@
 
 Install dependencies: `bundle install`
 
-Run local server with `bundle exec jekyll serve`
+Run local server with `bundle exec jekyll serve --auto`
 
 Test GitHub Pages build with `bundle exec jekyll build --trace`
 
