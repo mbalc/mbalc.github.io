@@ -19,7 +19,7 @@
 
 Install dependencies: `bundle install`
 
-Run local server with `bundle exec jekyll serve --auto`
+Run local server with `bundle exec jekyll serve --watch`
 
 Test GitHub Pages build with `bundle exec jekyll build --trace`
 
@@ -41,18 +41,24 @@ Test GitHub Pages build with `bundle exec jekyll build --trace`
 
 ## About
 
-This project uses **GitHub Actions** to build a site with Jekyll 4 and make the output available to serve as static output with GitHub Pages.
+This project uses **GitHub Actions** to build a site with Jekyll 4 and make the output available to
+serve as static output with GitHub Pages.
 
-If you are unfamiliar with any of those tools, see the [GitHub Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) tutorial on the Jekyll docs. That tutorial links back to this repo.
+If you are unfamiliar with any of those tools, see the
+[GitHub Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) tutorial on the
+Jekyll docs. That tutorial links back to this repo.
 
 Highlights of the repo:
 
 -   [main.yml](/.github/workflows/main.yml) - workflow config for GH Actions.
 -   [Gemfile](/Gemfile) - specifies Jekyll 4 and other custom gems.
 
-For a theme, `just-the-docs` is installed in the Gemfile and configured in the config file, but you can easily swap that for another theme.
+For a theme, `just-the-docs` is installed in the Gemfile and configured in the config file, but you
+can easily swap that for another theme.
 
-Follow the instructions on the [Create your own](https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/create-your-own.html) page of the demo site. That explains how to a copy of this template and set up and run it.
+Follow the instructions on the
+[Create your own](https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/create-your-own.html)
+page of the demo site. That explains how to a copy of this template and set up and run it.
 
 ## Documentation
 
