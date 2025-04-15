@@ -8,7 +8,7 @@ description: Starter template for a Jekyll 4 site - deployed with GH Actions and
 url: https://michaelcurrin.github.io
 baseurl: /jekyll-gh-actions-quickstart
 
-theme: just-the-docs
+theme: jekyll-theme-tao
 
 defaults:
   - scope:
