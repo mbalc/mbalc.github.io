@@ -1,4 +1,5 @@
 # Jekyll GH Actions Quickstart 🧪 🎬 🚀
+
 > Starter template for a Jekyll 4 site - deployed with GH Actions and GH Pages
 
 <!-- Badges generated with https://github.com/MichaelCurrin/badge-generator -->
@@ -14,6 +15,13 @@
 [![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/)
 [![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
+## Development
+
+Install dependencies: `bundle install`
+
+Run local server with `bundle exec jekyll serve`
+
+Test GitHub Pages build with `bundle exec jekyll build --trace`
 
 ## Preview
 
@@ -31,7 +39,6 @@
 
 </div>
 
-
 ## About
 
 This project uses **GitHub Actions** to build a site with Jekyll 4 and make the output available to serve as static output with GitHub Pages.
@@ -40,13 +47,12 @@ If you are unfamiliar with any of those tools, see the [GitHub Actions](https://
 
 Highlights of the repo:
 
-- [main.yml](/.github/workflows/main.yml) - workflow config for GH Actions.
-- [Gemfile](/Gemfile) - specifies Jekyll 4 and other custom gems.
+-   [main.yml](/.github/workflows/main.yml) - workflow config for GH Actions.
+-   [Gemfile](/Gemfile) - specifies Jekyll 4 and other custom gems.
 
- For a theme, `just-the-docs` is installed in the Gemfile and configured in the config file, but you can easily swap that for another theme.
+For a theme, `just-the-docs` is installed in the Gemfile and configured in the config file, but you can easily swap that for another theme.
 
 Follow the instructions on the [Create your own](https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/create-your-own.html) page of the demo site. That explains how to a copy of this template and set up and run it.
-
 
 ## Documentation
 
@@ -55,7 +61,6 @@ Follow the instructions on the [Create your own](https://michaelcurrin.github.io
 [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
 
 </div>
-
 
 ## License
 
