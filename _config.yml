@@ -1,12 +1,12 @@
 ### Site metadata
 
-title: Jekyll GH Actions Quickstart
-description: Starter template for a Jekyll 4 site - deployed with GH Actions and GH Pages
+title: mbalc.github.io
+description: A personal site of mbalc, a software engineer and a game developer.
 
 ### Build settings
 
-url: https://michaelcurrin.github.io
-baseurl: /jekyll-gh-actions-quickstart
+url: https://mbalc.github.io
+baseurl: /
 
 theme: jekyll-theme-tao
 
@@ -26,4 +26,4 @@ exclude:
 ### Theme settings
 
 aux_links:
-  "View source": "https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart"
+  "View source": "https://github.com/mbalc/mbalc.github.io"
