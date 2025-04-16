@@ -1,7 +1,9 @@
 ---
-title: Home
-layout: default
-nav_order: 1
+layout: about
+title: about
+permalink: /
+
+social: true
 ---
 
 # About Me
@@ -26,21 +28,23 @@ My main development stack currently revolves around **Node.js** and **Next.js** 
 
 ---
 
-## Extracurricular & Interests
-
--   **Music:** Active contributor and performer with Studio Następnik and the MIM UW Choir.
-    -   [YouTube Channel](https://www.youtube.com/@chormimuw717)
-    -   [Facebook Page](https://www.facebook.com/ChorMIM)
--   **Gaming:** Avid gamer with a keen interest in exploring new gaming experiences and technology.
--   **Creativity:** Constantly finding ways to merge my technical expertise with creative projects.
-
----
 
 ## Experience
 
 Read more about [my experience](/experience)
 
 You can also visit my [LinkedIn profile](https://www.linkedin.com/in/mbalc/)
+
+---
+
+## Extracurricular & Interests
+
+-   **Music:** Active contributor and performer with:
+    -  [Chór MIM UW](https://kultura.mimuw.edu.pl/chor/) ([<i class="fa-brands fa-youtube"></i>](https://www.youtube.com/@chormimuw717)  [<i class="fa-brands fa-facebook"></i>](https://www.facebook.com/ChorMIM))
+    -  [Studio Następnik](https://www.youtube.com/@nastepnik)
+-   **Gaming:** Avid gamer with a keen interest in exploring new gaming experiences and technology.
+<!-- -   **Creativity:** Constantly finding ways to merge my technical expertise with creative projects. -->
+
 
 <!--
 Search Tags:

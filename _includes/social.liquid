@@ -99,6 +99,8 @@
           <svg>
             <image xlink:href="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}" />
           </svg>
+        {% elsif social[1].icon_class %}
+          <i class="{{ social[1].icon_class }}"></i>
         {% else %}
           <img
             src="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
