@@ -1,9 +1,10 @@
 ---
 title: Experience
+layout: page
 description: Some stuff I experienced
 ---
 
-## Experience
+## Jobs
 
 ### Rad Code – Software Developer ("making stuff happen")
 
@@ -38,37 +39,52 @@ description: Some stuff I experienced
 
 ## Projects
 
-### wellbee.pl
+#### wellbee.pl
 
-**Duration:** July 2023 – Present _Description:_ [Add your project description here...] _Role:_
+**Duration:** July 2023 – Present
+
+_Description:_ [Add your project description here...]
+
+_Role:_
 [Your role and contributions...]
 
-### autumn8.ai
+#### autumn8.ai
 
-**Duration:** September 2021 – September 2023 _Focus:_ Artificial Intelligence, Generative AI,
-Terraform, Docker, Kubernetes, among others. _Role:_ [Define your role and achievements...]
+**Duration:** September 2021 – September 2023
 
-### Beyondplay/Sharedplay
+_Focus:_ Artificial Intelligence, Generative AI,
+Terraform, Docker, Kubernetes, among others.
 
-**Duration:** May 2021 – September 2021 _Highlights:_ Assisted with proof-of-concept development and
+_Role:_ [Define your role and achievements...]
+
+
+#### Beyondplay/Sharedplay
+
+**Duration:** May 2021 – September 2021
+
+_Highlights:_ Assisted with proof-of-concept development and
 worked closely on client requirements.
 
-### Genius Coach
+#### Genius Coach
 
 **Duration:** July 2020 – June 2021 _Highlights:_ Contributed significantly to a POC project,
 employing technologies including AWS and AI-driven solutions.
 
-### FLOWER CO.
+#### FLOWER CO.
 
-**Duration:** June 2018 – May 2020 _Highlights:_
+**Duration:** June 2018 – May 2020
+
+_Highlights:_
 
 -   Built an MVP e-commerce platform critical for the company’s early scalability.
 -   Set up, maintained, and extended software that automated processes during the company’s
     formative stages.
 
-### Stay Delightful
+#### Stay Delightful
 
-**Duration:** July 2017 – December 2017 _Highlights:_
+**Duration:** July 2017 – December 2017
+
+_Highlights:_
 
 -   Improved the UX and security of a hotel management system by integrating modern technologies.
 -   Contributed towards a codebase that was later a part of a successful acquisition by Nor1.
