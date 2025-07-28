@@ -7,7 +7,7 @@ first_name: mbalc
 # middle_name: R.
 # last_name: Name
 contact_note: >
-  Feel free to reach out to me via email for collaboration, consulting, or just to connect.
+  Feel free to reach out to me <a href="mailto:mbalc909@gmail.com">via email</a> for collaboration, consulting, or just to connect.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal site of mbalc, a software engineer, gamer, musician, and a person foremost.
 footer_text: >

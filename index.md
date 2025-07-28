@@ -24,10 +24,10 @@ software, you'll find me gaming or making music.
 -   **Other:** RESTful API design, code reviews, troubleshooting, agile methodologies.
 -   **Focus Areas:** DevOps automation, cloud infrastructure, and Developer Experience (DevEx).
 
-My main development stack currently revolves around **Node.js** and **Next.js** with **TypeScript**.
+My main development stack currently revolves around [**Node.js**](https://nodejs.org) and
+[**Next.js**](https://nextjs.org/) with [**TypeScript**](https://www.typescriptlang.org/).
 
 ---
-
 
 ## Experience
 
@@ -40,11 +40,14 @@ You can also visit my [LinkedIn profile](https://www.linkedin.com/in/mbalc/)
 ## Extracurricular & Interests
 
 -   **Music:** Active contributor and performer with:
-    -  [Chór MIM UW](https://kultura.mimuw.edu.pl/chor/) ([<i class="fa-brands fa-youtube"></i>](https://www.youtube.com/@chormimuw717)  [<i class="fa-brands fa-facebook"></i>](https://www.facebook.com/ChorMIM))
-    -  [Studio Następnik](https://www.youtube.com/@nastepnik)
+    -   [Chór MIM UW](https://kultura.mimuw.edu.pl/chor/)
+        ([<i class="fa-brands fa-youtube"></i>](https://www.youtube.com/@chormimuw717)
+        [<i class="fa-brands fa-facebook"></i>](https://www.facebook.com/ChorMIM))
+    -   [Studio Następnik](https://www.youtube.com/@nastepnik)
 -   **Gaming:** Avid gamer with a keen interest in exploring new gaming experiences and technology.
 <!-- -   **Creativity:** Constantly finding ways to merge my technical expertise with creative projects. -->
 
+---
 
 <!--
 Search Tags:

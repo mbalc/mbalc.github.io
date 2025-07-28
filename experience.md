@@ -1,12 +1,15 @@
 ---
 title: Experience
 layout: page
+
+permalink: /experience
+
 description: Some stuff I experienced
 ---
 
 ## Jobs
 
-### Rad Code – Software Developer ("making stuff happen")
+### [Rad Code](https://www.radcode.co/) – Software Developer – _making stuff happen_
 
 **Duration:** July 2018 – Present
 
@@ -21,7 +24,7 @@ description: Some stuff I experienced
 -   **Tech Stack:** Ruby on Rails, Spree framework, JavaScript (React, React Native), Amazon Web
     Services (AWS), and Continuous Integration (CI).
 
-### Rad Code – Web Development Intern
+### [Rad Code](https://www.radcode.co/) – Web Development Intern
 
 **Duration:** June 2017 – October 2017
 
@@ -45,25 +48,46 @@ description: Some stuff I experienced
 
 _Description:_ [Add your project description here...]
 
-_Role:_
-[Your role and contributions...]
+_Role_: DevOps Engineer
+
+_Highlights_:
+
+-   CI/CD Pipeline Automation
+    -   Automated Cypress end-to-end testing for all pull requests, reducing manual QA bottlenecks.
+    -   Fixed critical staging deployment failures caused by misconfigured secrets and environment
+        variables.
 
 #### autumn8.ai
 
 **Duration:** September 2021 – September 2023
 
-_Focus:_ Artificial Intelligence, Generative AI,
-Terraform, Docker, Kubernetes, among others.
+_Focus:_ Artificial Intelligence, Generative AI, Terraform, Docker, Kubernetes, among others.
 
-_Role:_ [Define your role and achievements...]
+_Role_: DevOps/MLOps Engineer
 
+_Highlights_:
+
+-   Critical Production Fixes
+    -   Debugged and resolved recurring crashes in Stable Diffusion and GPT-J deployments, ensuring
+        uninterrupted service for enterprise clients.
+    -   Fixed a critical issue where A8F workers crashed due to missing GPU dependencies, enabling
+        large-scale model inference.
+-   Infrastructure Overhaul
+    -   Led the setup of Kubernetes clusters for on-premise Autumn8 deployments, including GPU
+        support and DNS configuration.
+    -   Implemented Lambda Labs integration for GPU resource scaling, allowing cost-effective burst
+        capacity for ML workloads.
+-   Tooling & Observability
+    -   Built a CLI tool for model deployment/inference, including Windows compatibility fixes and
+        multipart upload support.
+    -   Designed CloudWatch logging and Grafana dashboards for real-time monitoring of inference
+        servers.
 
 #### Beyondplay/Sharedplay
 
 **Duration:** May 2021 – September 2021
 
-_Highlights:_ Assisted with proof-of-concept development and
-worked closely on client requirements.
+_Highlights:_ Assisted with proof-of-concept development and worked closely on client requirements.
 
 #### Genius Coach
 
