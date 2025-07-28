@@ -6,7 +6,7 @@ nav_order: 1
 
 # About Me
 
-Hello! I'm **Mbalc** – an enthusiastic software engineer with a lifelong fascination for computers.
+Hello! I'm **mbalc** – a professional software engineer with a lifelong fascination for computers.
 Driven by a passion to reach new heights, I blend coding with creativity. My main programming
 expertise focuses on **DevOps** (CI/CD automations, cloud infrastructure,Terraform, Kubernetes) and
 **Developer Experience (DevEx)**, including toolkit optimization. When I'm not building or designing
