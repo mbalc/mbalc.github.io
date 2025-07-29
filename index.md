@@ -45,6 +45,7 @@ You can also visit my [LinkedIn profile](https://www.linkedin.com/in/mbalc/)
         [<i class="fa-brands fa-facebook"></i>](https://www.facebook.com/ChorMIM))
     -   [Studio Następnik](https://www.youtube.com/@nastepnik)
 -   **Gaming:** Avid gamer with a keen interest in exploring new gaming experiences and technology.
+    -   Check out my [Unique DOOM blog](https://mbalc.github.io/unique-doom/)
 <!-- -   **Creativity:** Constantly finding ways to merge my technical expertise with creative projects. -->
 
 ---
